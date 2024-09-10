@@ -1,0 +1,20 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+# catboost
+# xgboost
+Flask
+flask-sqlalchemy
+dill
+lightgbm
+imblearn
+python-dotenv
+psycopg2-binary
+#transformers 
+# torch
+#flask-ngrok
+pytest
+flask-cors
+# -e .
