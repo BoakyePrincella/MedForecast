@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/grandkojo/GITHUB/MedForecast/medforecast"
+set -gx VIRTUAL_ENV "/home/princellab/GITHUB/MedForecast/medforecast"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/grandkojo/GITHUB/MedForecast/medforecast"
+VIRTUAL_ENV="/home/princellab/GITHUB/MedForecast/medforecast"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
